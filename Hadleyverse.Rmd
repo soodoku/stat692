@@ -54,7 +54,7 @@ The equivalent expression using  [readr](http://github.com/hadley/readr) is
     * `filter` - select a subset of the rows
     * `arrange` - re-order the rows
     * `mutate` - add new variables
-    * `sunnarise` - reduce a group to a smaller number of observations
+    * `summarise` - reduce a group to a smaller number of observations
     * `group_by` - create the groups
 
 ## `mutate`
